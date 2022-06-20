@@ -3,19 +3,19 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
     <item
-        android:id="@+id/navigation_home"
+        android:id="@+id/fragment_home"
         android:icon="@drawable/ic_mall"
         android:title="@string/title_mall" />
 
 
     <item
-        android:id="@+id/navigation_sport"
+        android:id="@+id/fragment_publish"
         android:icon="@drawable/ic_publish"
         android:title="@string/title_publish"
         />
 
     <item
-        android:id="@+id/navigation_user"
+        android:id="@+id/fragment_user"
         android:icon="@drawable/ic_user"
         android:title="@string/title_user" />
 </menu>

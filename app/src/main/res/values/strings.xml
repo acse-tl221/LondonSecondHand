@@ -3,4 +3,8 @@
     <string name="title_mall">Chanel商城</string>
     <string name="title_publish">我要出售</string>
     <string name="title_user">我的账户</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">home fragemnt</string>
+    <string name="publish_fragment">publish fragemnt</string>
+    <string name="account_fragment">account fragemnt</string>
 </resources>

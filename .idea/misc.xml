@@ -5,6 +5,10 @@
       <map>
         <entry key="app/src/main/res/drawable/ic_mall.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_base.xml" value="0.30434782608695654" />
+        <entry key="app/src/main/res/layout/fragment_account.xml" value="0.11194029850746269" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.14387031408308004" />
+        <entry key="app/src/main/res/layout/fragment_publish.xml" value="0.11194029850746269" />
+        <entry key="app/src/main/res/layout/list_product.xml" value="0.3098958333333333" />
         <entry key="app/src/main/res/menu/bottom_nav.xml" value="0.3098958333333333" />
       </map>
     </option>
